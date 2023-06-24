@@ -5,7 +5,7 @@ import "./login.css";
 
 const Login = React.FC = () => {
   const onFinish = (any) => {
-    console.log('Received values of form: ', values);
+    console.log('Received values of form: ',);
   };
 
   return (
